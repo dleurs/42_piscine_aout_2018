@@ -1,0 +1,7 @@
+Credentials cache: API:217315D3-5282-40B9-BB7D-4615D8E8C8C5
+        Principal: dleurs@42.FR
+
+  Issued                Expires               Principal
+Aug  1 11:49:20 2018  Aug  8 11:49:20 2018  krbtgt/42.FR@42.FR
+Aug  1 12:16:59 2018  Aug  8 11:49:20 2018  host/vgs-fn1.42.fr@42.FR
+Aug  1 12:18:17 2018  Aug  8 11:49:20 2018  ldap/ldap-proxy.42.fr@42.FR
